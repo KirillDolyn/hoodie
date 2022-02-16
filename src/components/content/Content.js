@@ -14,15 +14,23 @@ function Content() {
       </div>
       <div className="slider">
         <div className="slider-left">
-          <CaretLeftOutlined />
+          <CaretLeftOutlined style={{ fontSize: "20px", color: "#fff" }} />
         </div>
         <div className="product">
           <img src={svg} alt="svg"></img>
         </div>
         <div className="slider-right">
-          <CaretRightOutlined />
+          <CaretRightOutlined style={{ fontSize: "20px", color: "#fff" }} />
+          <div className="slider-right2">
+            <CaretRightOutlined style={{ fontSize: "20px", color: "#fff" }} />
+          </div>
         </div>
       </div>
+      <div className="title">
+        <span>Terragone-Popoy</span>
+        <p>soulmate</p>
+      </div>
+      <div className="bar-border"></div>
     </div>
   );
 }
