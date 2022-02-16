@@ -1,0 +1,12 @@
+@import "~antd/dist/antd.css";
+
+body,
+html,
+#root,
+.wrapper {
+  max-width: 420px;
+  max-height: 897px;
+
+  color: #202020;
+  font-size: 14px;
+}

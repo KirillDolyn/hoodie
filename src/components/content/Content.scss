@@ -1,0 +1,26 @@
+.content {
+  width: 420px;
+  height: 700px;
+  background: #dd9a6a;
+}
+.info {
+  //   float: right;
+  //   padding: 15px;
+}
+.slider {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+
+  .slider-left,
+  .slider-right {
+    margin-top: 30px;
+    color: #fff;
+  }
+}
+.product {
+  img {
+    width: 250px;
+    height: 500px;
+  }
+}
