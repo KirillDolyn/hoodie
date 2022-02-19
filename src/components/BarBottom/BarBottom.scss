@@ -1,0 +1,98 @@
+.bar-bottom {
+  background: #090909;
+  display: flex;
+  flex-direction: column;
+  height: 140px;
+  padding: 10px;
+}
+
+.bar-content {
+  font-size: 20px;
+  color: rgb(243, 241, 237);
+}
+
+.circle {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  padding: 3px;
+  float: right;
+
+  .bar-slider1 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 100% 0 0 100% / 50% 0 0 50%;
+    background: #b1a050;
+  }
+  .bar-slider2 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+    background: #c89881;
+    margin-right: 10px;
+  }
+
+  .bar-slider3 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 100% 0 0 100% / 50% 0 0 50%;
+    background: #e3b461;
+  }
+  .bar-slider4 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+    background: #598498;
+    margin-right: 10px;
+  }
+
+  .bar-slider5 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 100% 0 0 100% / 50% 0 0 50%;
+    background: #d5b2c4;
+  }
+  .bar-slider6 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+    background: #8da5d0;
+    margin-right: 10px;
+  }
+  .bar-slider7 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 100% 0 0 100% / 50% 0 0 50%;
+    background: #689ca2;
+  }
+  .bar-slider8 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+    background: #bc6e91;
+    margin-right: 10px;
+  }
+  .bar-slider9 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 100% 0 0 100% / 50% 0 0 50%;
+    background: #7c1e24;
+  }
+  .bar-slider10 {
+    width: 1.5em;
+    height: 3em;
+    border: 0;
+    border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+    background: #54746a;
+  }
+}

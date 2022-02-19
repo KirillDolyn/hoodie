@@ -1,0 +1,42 @@
+[
+    {
+      "id": "happiness-caribbean",
+      "color": "pink",
+      "bodyColors": ["black", "grey", "white"],
+      "elementVariants": ["hood-only", "all", "pocket-only"],
+      "hoodVariants": ["i-o", "l-r", "none"],
+      "iconColors": ["#95babb", "#92355f"]
+    },
+    {
+      "id": "tarragon-poppy",
+      "color": null,
+      "bodyColors": ["black", "grey", "white"],
+      "elementVariants": ["hood-only", "all", "pocket-only"],
+      "hoodVariants": ["i-o", "l-r", "none"],
+      "iconColors": ["#791f27", "#1f392d"]
+    },
+    {
+      "id": "banana-apricot",
+      "color": null,
+      "bodyColors": ["black", "grey", "white"],
+      "elementVariants": ["hood-only", "all", "pocket-only"],
+      "hoodVariants": ["i-o", "l-r", "none"],
+      "iconColors": ["#c69b8d", "#e1d396"]
+    },
+    {
+      "id": "mango-ibiza",
+      "color": null,
+      "bodyColors": ["black", "grey", "white"],
+      "elementVariants": ["hood-only", "all", "pocket-only"],
+      "hoodVariants": ["i-o", "l-r", "none"],
+      "iconColors": ["#4f7e93", "#c1851c"]
+    },
+    {
+      "id": "pink-heavenly",
+      "color": "pale",
+      "bodyColors": ["black", "grey", "white"],
+      "elementVariants": ["hood-only", "all", "pocket-only"],
+      "hoodVariants": ["i-o", "l-r", "none"],
+      "iconColors": ["#8aa5d5", "#c2a0ad"]
+    }
+]

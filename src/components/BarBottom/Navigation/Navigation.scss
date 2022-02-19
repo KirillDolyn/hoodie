@@ -1,0 +1,25 @@
+.navigation {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  .navigation-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    font-size: 20px;
+    color: rgb(243, 241, 237);
+  }
+  .navigation-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 0;
+  }
+  .navigation-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 0;
+  }
+}
